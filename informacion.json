@@ -5,7 +5,7 @@
 	"VCardX": "+51995386439",
 	"VCardY": "+51 995 386 439",
 	"NombreBot": "NK-BOT",
-	"LimiteEnGrupos": "2",
-	"LimiteComandos": "666999",
+	"LimiteEnGrupos": "10",
+	"LimiteComandos": "666999999999999999999",
 	"TusRedesSociales": "~>[TuCanalDeYoutube]\n~>[PaginaDeFacebook]\n~>[TusOtrasRedesSociales...]"
 }
